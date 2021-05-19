@@ -8,7 +8,7 @@ PortGroup           golang 1.0
 go.setup            github.com/caddyserver/xcaddy 0.1.8 v
 
 name                caddy
-version             2.3.0
+version             2.4.0
 revision            0
 categories          www
 platforms           darwin
